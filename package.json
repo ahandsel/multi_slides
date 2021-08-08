@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "reveal-md content/ -w",
+    "dev": "reveal-md content/ -w",
     "build": "rm -rf docs && reveal-md content/ --static docs --static-dirs=content/img &&mv docs/_assets docs/assets"
   },
   "author": "",
