@@ -1,3 +1,0 @@
-# Slide B
-
-More Stuff
